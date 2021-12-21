@@ -5,4 +5,3 @@ L_3 = [3, 6, 9]
 answer = []
 answer = L_1 + L_3 * 3 + L_2
 print(answer)
-sdd
