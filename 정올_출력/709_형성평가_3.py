@@ -1,0 +1,5 @@
+print("TTTTTTTTTT")
+print("TTTTTTTTTT")
+print("%6s" % "TT")
+print("%6s" % "TT")
+print("%6s" % "TT")
