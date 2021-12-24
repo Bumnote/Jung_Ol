@@ -1,0 +1,5 @@
+a = input()
+b = input()
+c = input()
+d = input()
+print("%s: %s\n%s: %s" % (a, b, c, d))
