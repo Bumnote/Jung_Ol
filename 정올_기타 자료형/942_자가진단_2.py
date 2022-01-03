@@ -1,0 +1,8 @@
+a = ('Dolphin', 'Oh My Girl')
+b = ('Pallette', 'IU')
+c = ('Yes or Yes', 'Twice')
+print("[Song by Artist]")
+print("=" * 10)
+print(a[0], "by", a[1])
+print(b[0], "by", b[1])
+print(c[0], "by", c[1])
